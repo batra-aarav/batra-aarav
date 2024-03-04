@@ -20,7 +20,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 [![Personal Portfolio][GitHub.io]][GitHub-url]
 
 # Hi There!👋 I'm Aarav Batra.
-Feel free to connect with me at batra.aarav@outlook.com. Check out my [portfolio](https://batra-aarav.github.io/)!
+Feel free to connect with me at aaravbatra@duck.com. Check out my [portfolio](https://batra-aarav.github.io/)!
 
 <!-- Badge Links -->
 [LinkedIn]: https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=fff&color=0a66c2
