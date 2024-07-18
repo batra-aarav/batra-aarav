@@ -10,5 +10,5 @@ Feel free to connect with me at aaravbatra@duck.com. Check out my [portfolio](ht
 [LinkedIn-url]: https://linkedin.aaravbatra.me
 [GitHub.io]: https://img.shields.io/badge/Aarav%20Batra's%20Portfolio-2c2f33?logo=github&logoColor=fff&color=171515
 [GitHub-url]: https://www.aaravbatra.me
-[BMC]: https://img.shields.io/badge/Buy-Me-a-Coffee!?logo=buymeacoffee&logoColor=FFDD00&color=fff\
+[BMC]: https://img.shields.io/badge/Buy-Me-a-Coffee!?logo=buymeacoffee&logoColor=FFDD00&color=fff
 [BMC-url]: https://buymeacoffee.com/aaravbatra
