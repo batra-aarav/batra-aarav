@@ -1,6 +1,6 @@
 [![LinkedIn][LinkedIn]][LinkedIn-url]
 [![Personal Portfolio][GitHub.io]][GitHub-url]
-![Buy Me a Coffee!][BMC][BMC-url]
+[![Buy Me a Coffee!][BMC]][BMC-url]
 
 # Hi There! 👋 I'm Aarav Batra.
 Feel free to connect with me at aaravbatra@duck.com. Check out my [portfolio](https://www.aaravbatra.me)!
