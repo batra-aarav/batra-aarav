@@ -1,5 +1,6 @@
 [![LinkedIn][LinkedIn]][LinkedIn-url]
 [![Personal Portfolio][GitHub.io]][GitHub-url]
+![Buy Me a Coffee!](https://img.shields.io/badge/Buy%20Me%20a%20Coffee!?logo=buymeacofeee&logoColor=%23ffdd00&color=fff&link=https%3A%2F%2Fbuymeacoffee.com%2Faaravbatra)
 
 # Hi There! 👋 I'm Aarav Batra.
 Feel free to connect with me at aaravbatra@duck.com. Check out my [portfolio](https://www.aaravbatra.me)!
